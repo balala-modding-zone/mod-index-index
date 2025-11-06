@@ -24,5 +24,9 @@ These are threads on the official Balatro Discord server. Viewing them requires 
 - [QoL Guide](https://discord.com/channels/1116389027176787968/1407865124454273054) by minininlla
 
 ## Defunct managers and indices
-These have been _confirmed by their creator(s)_ to be defunct; I'm not going to make judgement calls regarding indices that haven't been active.
+These have been _confirmed by their creator(s)_ to be defunct; I'm not going to make judgement calls regarding indices that haven't been active. They are included for informational purposes and maximum comprehensivity. ness. ification.
 - Faroquin by Arargd
+
+---
+
+If you are aware of any additional indices, feel free to put in a PR or an issue or a comment in [the index index Discord thread](https://discord.com/channels/1116389027176787968/1324102096584446002) or some other method of contacting me if that seems more relevant.
