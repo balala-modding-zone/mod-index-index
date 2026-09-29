@@ -4,6 +4,7 @@ This is a list of all Balatro mod indices I'm aware of. **I make no guarantee th
 
 ## Mod Managers
 - [Ingame Mod Manager](https://github.com/frostice482/balatro-imm) by frost
+- For those familiar with Thunderstore, any manager which works with that. ngl I am not familiar with Thunderstore so this is all I've got for ya
 
 ## Public indices
 - [Balatro Mod Index](https://docs.google.com/spreadsheets/d/1aoJrrC7Y-dkvJwBu_U6amelYnoCrZgWqpoGRAfHN1ys/) by Mysthaps, Dimserene, and Eremel
