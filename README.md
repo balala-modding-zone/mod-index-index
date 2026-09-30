@@ -9,6 +9,7 @@ This is a list of all Balatro mod indices I'm aware of. **I make no guarantee th
 ## Public indices
 - [Balatro Mod Index](https://docs.google.com/spreadsheets/d/1aoJrrC7Y-dkvJwBu_U6amelYnoCrZgWqpoGRAfHN1ys/) by Mysthaps, Dimserene, and Eremel
 - [Balatro Mod Index](https://docs.google.com/spreadsheets/d/1lo3ySvzO79nzJJ6-6FsECxqhPQtrnYVD0ozI5bPSB4U/) by Cheesy Brik (collects entries via [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSepoagj-SaicphyzjFkkJyQumqhAGMEN2moWnLX2fQ7kDhDrg/viewform))
+- [Balatro Mod Index](https://github.com/kasimeka/balatro-mod-index) originally by skyline69, now maintained by kasimeka
 - [Balatro Mod Ledger](https://github.com/Cheesy-Brik/BaltroModsLedger) by Cheesy Brik
 - [Awesome Balatro](https://github.com/jie65535/awesome-balatro) by jie65535
 - [Balatro Compatibility Mod Guide](https://docs.google.com/spreadsheets/d/1WONedKaYYZsRcjWGduO7kwXJbbzQbtkNuACc0EN2qQc) by Xalderin
@@ -29,7 +30,6 @@ These threads require having a Discord account and joining the associated Discor
 These either have been _confirmed by their creator(s)_ to be defunct, or have vanished from the Internet entirely; I'm not going to make judgement calls regarding indices that haven't been active. They are included for informational purposes and maximum comprehensivity. ness. ification.
 - Faroquin by Arargd (confirmed by creator)
 - [Balatro Mod Manager](https://github.com/skyline69/balatro-mod-manager/) by skyline69 (confirmed by creator)
-- [Balatro Mod Index](https://github.com/skyline69/balatro-mod-index) by skyline69 (confirmed by creator)
 - [Photon Mod Manager](https://photonmodmanager.onrender.com/browse) by Corobo (404'd)
 
 ---
